@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## A TODO app to be used as starter template for Mantra (Only Client side)
 
 Contents:
@@ -19,7 +18,3 @@ Simply start your app with `meteor -p 3000`.
 Then you can access the app on <http://localhost:3000>
 
 For now no tests, no server side will work.
-=======
-# todo-mantra
-Mantra Starter template with todo app
->>>>>>> fdd02b16b46a8b058722e634c0c0f3b9f1f4500a
