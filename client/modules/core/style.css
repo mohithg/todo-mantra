@@ -1,0 +1,8 @@
+.closebtn {
+	position:absolute;
+	right:10px;
+}
+
+.delbtn, .submitbtn {
+	display:inline-block;
+}
