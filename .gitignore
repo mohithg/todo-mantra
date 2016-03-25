@@ -1,2 +1,4 @@
 node_modules
 *.log
+client/modules/todo/actions/out
+client/modules/todo/out
