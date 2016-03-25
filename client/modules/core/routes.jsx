@@ -5,6 +5,10 @@ import MainWrapper from './MainWrapper.jsx';
 
 import todo from '../todo/containers/todo.js';
 
+/**
+ * Routes the user to specified page
+ */
+
 export default function (injectDeps, {Meteor}) {
 
   const MainWrapperCtx = injectDeps(MainWrapper);

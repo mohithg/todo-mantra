@@ -2,6 +2,9 @@ import React from 'react';
 
 import Button from 'material-ui/lib/raised-button';
 
+/**
+ * Renders the Add button for the TODO application
+ */
 const AddBtn = React.createClass({
   render: function () {
     return (

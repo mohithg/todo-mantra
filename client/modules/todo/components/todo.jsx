@@ -5,6 +5,11 @@ import AddBtn from './button.jsx';
 import Card from './card.jsx';
 import DelBtn from './delall.jsx';
 
+/**
+ * Renders the entire todo application
+ */
+
+
 const Todoapp = React.createClass({
   render: function () {
     return (<div>

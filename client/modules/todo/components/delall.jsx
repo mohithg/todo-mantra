@@ -2,6 +2,10 @@ import React from 'react';
 
 import Button from 'material-ui/lib/raised-button';
 
+/**
+ * Renders the delete all button
+ */
+
 const DelBtn = React.createClass({
   render: function () {
     return (
