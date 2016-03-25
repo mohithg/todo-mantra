@@ -17,4 +17,4 @@ Contents:
 Simply start your app with `meteor -p 3000`. 
 Then you can access the app on <http://localhost:3000>
 
-For now no tests, no server side will work.
+for now no server side code will work.
